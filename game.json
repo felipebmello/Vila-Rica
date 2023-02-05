@@ -63,13 +63,100 @@
         "metadata": "",
         "name": "Pixel Cowboy.otf",
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ButtonWhite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ButtonWhite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Brazil.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "acc8c6bf6d50f18025e94d45a4ec8ab97976cbfc4df7021f338fec3dff024065_Brazil.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel flags/America/acc8c6bf6d50f18025e94d45a4ec8ab97976cbfc4df7021f338fec3dff024065_Brazil.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/USA.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2f002faba645474fe58a05a93700b0de1974de3ff3c85b244f1cb4a91f1c3835_USA.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel flags/America/2f002faba645474fe58a05a93700b0de1974de3ff3c85b244f1cb4a91f1c3835_USA.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Brasil_1821_-_América_Portuguesa.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Brasil_1821_-_América_Portuguesa.jpg\",\"extension\":\".png\"}",
+        "name": "Brasil_1821_-_América_Portuguesa.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "View_over_the_Town_from_the_Road_into_Town_-_Ouro_Preto_-_Minas_Gerais_-_Brazil.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "View_over_the_Town_from_the_Road_into_Town_-_Ouro_Preto_-_Minas_Gerais_-_Brazil.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "View_over_the_Town_from_the_Road_into_Town_-_Ouro_Preto_-_Minas_Gerais_-_Brazil2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "View_over_the_Town_from_the_Road_into_Town_-_Ouro_Preto_-_Minas_Gerais_-_Brazil2.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "American_19th_Century,_The_Finish,_c._1860,_NGA_59889 (1).jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "American_19th_Century,_The_Finish,_c._1860,_NGA_59889 (1).jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Button.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "globalLanguage",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
