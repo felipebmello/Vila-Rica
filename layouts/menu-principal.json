@@ -157,7 +157,7 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "Background2",
+      "name": "Background",
       "persistentUuid": "65b426e5-5568-4140-9074-371f099c9752",
       "width": 0,
       "x": -1008,
@@ -326,7 +326,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "acc8c6bf6d50f18025e94d45a4ec8ab97976cbfc4df7021f338fec3dff024065_Brazil.png",
+                  "image": "Brazil flag.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -385,7 +385,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "2f002faba645474fe58a05a93700b0de1974de3ff3c85b244f1cb4a91f1c3835_USA.png",
+                  "image": "USA flag.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -417,48 +417,6 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "Background",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "View_over_the_Town_from_the_Road_into_Town_-_Ouro_Preto_-_Minas_Gerais_-_Brazil2.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "Background2",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
           "name": "",
           "useMultipleDirections": false,
           "directions": [
@@ -468,7 +426,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "American_19th_Century,_The_Finish,_c._1860,_NGA_59889 (1).jpg",
+                  "image": "Background.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
