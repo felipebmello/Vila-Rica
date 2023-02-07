@@ -1,0 +1,22 @@
+[
+	{
+		"title": "cutscene-início",
+		"tags": "",
+		"body": "Teste para utilização de diálogo contando a história/contexto inicial do jogo.\nAqui podem ser usadas imagens ou até mesmo pseudo-mecânicas/animações.\nCriada utilizando a integração com a ferramenta Yarn.",
+		"position": {
+			"x": 16,
+			"y": 109
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cutscene-start",
+		"tags": "",
+		"body": "Test for utilizing dialog trees to introduce the game's initial context.\nHere, you can use images, simple game mechanics or animations.\nCreated using the Yarn integration.",
+		"position": {
+			"x": 314,
+			"y": 114
+		},
+		"colorID": 0
+	}
+]

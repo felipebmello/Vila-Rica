@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.17456309804401005,
+    "zoomFactor": 0.23640304381658617,
     "windowMask": false
   },
   "objectsGroups": [
@@ -41,6 +41,23 @@
         },
         {
           "name": "QuitText"
+        },
+        {
+          "name": "OptionsText"
+        },
+        {
+          "name": "BackText"
+        },
+        {
+          "name": "GlobalVolumeText"
+        }
+      ]
+    },
+    {
+      "name": "Buttons",
+      "objects": [
+        {
+          "name": "Button"
         }
       ]
     }
@@ -50,12 +67,12 @@
     {
       "angle": 0,
       "customSize": true,
-      "height": 129,
+      "height": 161,
       "layer": "",
       "name": "Title",
       "persistentUuid": "626f1e0b-cb57-475e-81df-ed2041205ac6",
-      "width": 1912,
-      "x": 4,
+      "width": 2386,
+      "x": -233,
       "y": 127,
       "zOrder": 1,
       "numberProperties": [],
@@ -66,7 +83,7 @@
       "angle": 0,
       "customSize": true,
       "height": 128,
-      "layer": "",
+      "layer": "Main Menu",
       "name": "Button",
       "persistentUuid": "f3f470ad-acc4-4e88-b4a8-3922c87fb362",
       "width": 640,
@@ -81,12 +98,12 @@
       "angle": 0,
       "customSize": true,
       "height": 128,
-      "layer": "",
+      "layer": "Main Menu",
       "name": "StartText",
       "persistentUuid": "6467a0f4-8406-4ecb-bf37-3b62e890e8df",
       "width": 512,
       "x": 704,
-      "y": 590,
+      "y": 582,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -126,22 +143,7 @@
       "angle": 0,
       "customSize": true,
       "height": 128,
-      "layer": "",
-      "name": "QuitText",
-      "persistentUuid": "96a1c9a8-49a8-4ac5-8a88-7d2ab24e191c",
-      "width": 512,
-      "x": 704,
-      "y": 752,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "height": 128,
-      "layer": "",
+      "layer": "Main Menu",
       "name": "Button",
       "persistentUuid": "7a37213d-c123-4ee8-9125-0591de9a7eee",
       "width": 640,
@@ -154,15 +156,105 @@
     },
     {
       "angle": 0,
+      "customSize": true,
+      "height": 96,
+      "layer": "Main Menu",
+      "name": "QuitText",
+      "persistentUuid": "27f2e4b7-f6d7-427b-9fce-a9c109d10113",
+      "width": 512,
+      "x": 704,
+      "y": 902,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 128,
+      "layer": "Main Menu",
+      "name": "Button",
+      "persistentUuid": "0c7e4ab8-46b1-42eb-90b7-dfeb72c54811",
+      "width": 640,
+      "x": 640,
+      "y": 896,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 88,
+      "layer": "Main Menu",
+      "name": "OptionsText",
+      "persistentUuid": "5490a1c8-5e9e-4558-9ed3-454d04c2172d",
+      "width": 544,
+      "x": 688,
+      "y": 743,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 112,
+      "layer": "Options Menu",
+      "name": "Button",
+      "persistentUuid": "61528c59-a1d4-4436-a64a-dd6d4a29d554",
+      "width": 496,
+      "x": 1360,
+      "y": 944,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 69,
+      "layer": "Options Menu",
+      "name": "BackText",
+      "persistentUuid": "619d6aa7-369a-4e2c-ad4a-9a2786b9e1d9",
+      "width": 432,
+      "x": 1392,
+      "y": 960,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
       "customSize": false,
       "height": 0,
-      "layer": "",
-      "name": "Background",
-      "persistentUuid": "65b426e5-5568-4140-9074-371f099c9752",
+      "layer": "Options Menu",
+      "name": "SquareWhiteSlider",
+      "persistentUuid": "0ea3a9f1-679e-4296-b1fb-07b7372c665a",
       "width": 0,
-      "x": -1008,
-      "y": -1433,
-      "zOrder": -1,
+      "x": 615,
+      "y": 368,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Options Menu",
+      "name": "GlobalVolumeText",
+      "persistentUuid": "549d6cf2-8da4-44c1-90dc-bf8013ce059b",
+      "width": 0,
+      "x": 31,
+      "y": 328,
+      "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -177,14 +269,26 @@
       "name": "Button",
       "rightMargin": 32,
       "tags": "",
-      "texture": "Button.png",
+      "texture": "Button2.png",
       "tiled": false,
       "topMargin": 32,
       "type": "PanelSpriteObject::PanelSprite",
       "width": 64,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "toggleHighlight",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "effects": [],
-      "behaviors": []
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
     },
     {
       "assetStoreId": "",
@@ -195,9 +299,40 @@
       "tags": "",
       "type": "TextObject::Text",
       "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "isClockwise",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 20,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
       "string": "VILA RICA",
       "font": "Pixel Cowboy.otf",
       "textAlignment": "center",
@@ -236,7 +371,26 @@
           ]
         }
       ],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 5,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
       "behaviors": [],
       "string": "Start Game",
       "font": "Pixel Cowboy.otf",
@@ -276,9 +430,217 @@
           ]
         }
       ],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 5,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
       "behaviors": [],
       "string": "Quit Game",
+      "font": "Pixel Cowboy.otf",
+      "textAlignment": "center",
+      "characterSize": 90,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "OptionsText",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [
+        {
+          "name": "Language",
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "englishText",
+              "type": "string",
+              "value": "Options"
+            },
+            {
+              "name": "portugueseText",
+              "type": "string",
+              "value": "Opções"
+            }
+          ]
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 5,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [],
+      "string": "Options",
+      "font": "Pixel Cowboy.otf",
+      "textAlignment": "center",
+      "characterSize": 90,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "BackText",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [
+        {
+          "name": "Language",
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "englishText",
+              "type": "string",
+              "value": "Back to Menu"
+            },
+            {
+              "name": "portugueseText",
+              "type": "string",
+              "value": "Voltar ao Menu"
+            }
+          ]
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 5,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [],
+      "string": "Back to Menu",
+      "font": "Pixel Cowboy.otf",
+      "textAlignment": "center",
+      "characterSize": 70,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "GlobalVolumeText",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [
+        {
+          "name": "Language",
+          "type": "structure",
+          "children": [
+            {
+              "folded": true,
+              "name": "englishText",
+              "type": "string",
+              "value": "Global Volume:"
+            },
+            {
+              "name": "portugueseText",
+              "type": "string",
+              "value": "Volume Global:"
+            }
+          ]
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Outline",
+          "name": "Outline",
+          "doubleParameters": {
+            "padding": 10,
+            "thickness": 2
+          },
+          "stringParameters": {
+            "color": "255;255;255"
+          },
+          "booleanParameters": {}
+        },
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 5,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
+      "behaviors": [],
+      "string": "Global Volume:",
       "font": "Pixel Cowboy.otf",
       "textAlignment": "center",
       "characterSize": 90,
@@ -308,7 +670,26 @@
           "value": false
         }
       ],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 10,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
       "behaviors": [
         {
           "name": "Tween",
@@ -367,7 +748,26 @@
           "value": false
         }
       ],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Sombra",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 0,
+            "distance": 10,
+            "padding": 10,
+            "quality": 20,
+            "rotation": 45
+          },
+          "stringParameters": {
+            "color": "0;0;0"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
       "behaviors": [
         {
           "name": "Tween",
@@ -446,43 +846,368 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "bfeeb465a4a164b560a2215e3ff9e78e66123af43cbf7ef1f22d56fca4271c80",
+      "name": "SquareWhiteSlider",
+      "tags": "",
+      "type": "PanelSpriteSlider::PanelSpriteSlider",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "BarTopPadding": 6,
+        "BarLeftPadding": 6,
+        "BarRightPadding": 6,
+        "BarBottomPadding": 6,
+        "LabelMargin": 6
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 4,
+          "height": 28,
+          "leftMargin": 2,
+          "rightMargin": 2,
+          "texture": "Square White Slider Border.png",
+          "tiled": false,
+          "topMargin": 4,
+          "width": 265
+        },
+        "FillBar": {
+          "bottomMargin": 2,
+          "height": 16,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Square White Slider Fill Bar.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 16
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "It displays the value when it changes.",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 221,
+            "g": 221,
+            "r": 221
+          }
+        },
+        "Thumb": {
+          "bottomMargin": 2,
+          "height": 36,
+          "leftMargin": 1,
+          "rightMargin": 1,
+          "texture": "Square White Slider Thumb.png",
+          "tiled": false,
+          "topMargin": 2,
+          "width": 22
+        }
+      }
     }
   ],
   "events": [
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "UI Flair",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
         {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "TextObject::SetOutline"
-          },
-          "parameters": [
-            "Title",
-            "\"231;186;104\"",
-            "10"
+          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+              },
+              "parameters": [
+                "",
+                "\"Background\"",
+                "0",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::SetOutline"
+              },
+              "parameters": [
+                "Title",
+                "\"231;186;104\"",
+                "10"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::SetOutline"
+              },
+              "parameters": [
+                "TranslatedTexts",
+                "\"255;255;255\"",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteObject::SetColor"
+              },
+              "parameters": [
+                "Buttons",
+                "\"231;186;104\""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Options Menu\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"titleRotationTimer\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::AddObjectAngleTween"
+                  },
+                  "parameters": [
+                    "Title",
+                    "Tween",
+                    "\"title-angle\"",
+                    "Title.Angle()+10",
+                    "\"easeInCubic\"",
+                    "500",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Title",
+                    "isClockwise",
+                    "True"
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
-          "type": {
-            "value": "TextObject::SetOutline"
-          },
-          "parameters": [
-            "TranslatedTexts",
-            "\"255;255;255\"",
-            "5"
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"titleRotationTimer\"",
+                ">",
+                "1.0"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::IsPlaying"
+              },
+              "parameters": [
+                "Title",
+                "Tween",
+                "\"title-angle\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::IsPlaying"
+              },
+              "parameters": [
+                "Title",
+                "Tween",
+                "\"title-angle2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Title",
+                "isClockwise",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"titleRotationTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectAngleTween"
+              },
+              "parameters": [
+                "Title",
+                "Tween",
+                "\"title-angle\"",
+                "Title.Angle()+10",
+                "\"easeInCubic\"",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Title",
+                "isClockwise",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"titleRotationTimer\"",
+                ">",
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::IsPlaying"
+              },
+              "parameters": [
+                "Title",
+                "Tween",
+                "\"title-angle\""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::IsPlaying"
+              },
+              "parameters": [
+                "Title",
+                "Tween",
+                "\"title-angle2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Title",
+                "isClockwise",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"titleRotationTimer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::AddObjectAngleTween"
+              },
+              "parameters": [
+                "Title",
+                "Tween",
+                "\"title-angle2\"",
+                "Title.Angle()-10",
+                "\"easeInCubic\"",
+                "1000",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Title",
+                "isClockwise",
+                "False"
+              ]
+            }
           ]
         }
-      ]
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,
@@ -713,7 +1438,7 @@
       "colorR": 74,
       "creationTime": 0,
       "folded": true,
-      "name": "Flags Toggle",
+      "name": "Flag Toggles",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -916,6 +1641,425 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Button Toggles",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buttons",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Buttons",
+                    "TranslatedTexts",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "toggleHighlight",
+                    "False"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::SetOutline"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "\"253;255;42\"",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::SetShadow"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "\"0;0;0\"",
+                    "5",
+                    "0",
+                    "45"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "-",
+                    "5",
+                    "-",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "toggleHighlight",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteObject::SetColor"
+                  },
+                  "parameters": [
+                    "Buttons",
+                    "\"255;220;158\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buttons",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Buttons",
+                    "TranslatedTexts",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "toggleHighlight",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::SetOutline"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "\"255;255;255\"",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextObject::SetShadow"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "\"0;0;0\"",
+                    "5",
+                    "0",
+                    "45"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "+",
+                    "5",
+                    "+",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "TranslatedTexts",
+                    "toggleHighlight",
+                    "False"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteObject::SetColor"
+                  },
+                  "parameters": [
+                    "Buttons",
+                    "\"231;186;104\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Button Actions",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Buttons",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Buttons",
+                "TranslatedTexts",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteObject::SetColor"
+              },
+              "parameters": [
+                "Button",
+                "\"156;123;63\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "StartText",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Cutscene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "OptionsText",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Options Menu\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Main Menu\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "QuitText",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "BackText",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Main Menu\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Options Menu\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Options Actions",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+              },
+              "parameters": [
+                "SquareWhiteSlider",
+                "=",
+                "GlobalVolume()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModGlobalVolume"
+              },
+              "parameters": [
+                "",
+                "=",
+                "SquareWhiteSlider.Value()"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     }
   ],
   "layers": [
@@ -947,7 +2091,18 @@
       "ambientLightColorR": 7185664,
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "name": "UI",
+      "name": "Main Menu",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 8039264,
+      "ambientLightColorG": 6063568,
+      "ambientLightColorR": 8712072,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "Options Menu",
       "visibility": true,
       "cameras": [],
       "effects": []

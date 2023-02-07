@@ -44,7 +44,12 @@
       "showGDevelopSplash": true,
       "showProgressBar": true
     },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
     "authorIds": [],
+    "authorUsernames": [],
     "categories": [],
     "playableDevices": [],
     "extensionProperties": [],
@@ -58,7 +63,7 @@
   "resources": {
     "resources": [
       {
-        "file": "Pixel Cowboy.otf",
+        "file": "assets/font/Pixel Cowboy.otf",
         "kind": "font",
         "metadata": "",
         "name": "Pixel Cowboy.otf",
@@ -66,7 +71,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Brazil.png",
+        "file": "assets/image/Brazil.png",
         "kind": "image",
         "metadata": "",
         "name": "Brazil flag.png",
@@ -79,7 +84,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/USA.png",
+        "file": "assets/image/USA.png",
         "kind": "image",
         "metadata": "",
         "name": "USA flag.png",
@@ -92,7 +97,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Background.jpg",
+        "file": "assets/image/Background.jpg",
         "kind": "image",
         "metadata": "",
         "name": "Background.jpg",
@@ -101,12 +106,68 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Button.png",
+        "file": "assets/image/Button2.png.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Button2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Square White Slider Border.png",
         "kind": "image",
         "metadata": "",
-        "name": "Button.png",
+        "name": "Square White Slider Border.png",
         "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/324e5f522f6242e9f93090e75ddc38427c3a6c42e8236dbf0ed541bd85cf7221_Square White Slider Border.png",
+          "name": "Square White Slider Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Square White Slider Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square White Slider Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/47bc684198cd25b3ec74b0e72c2e2c7abb1b6736bd9f4b78a943c663e83118bf_Square White Slider Fill Bar.png",
+          "name": "Square White Slider Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Square White Slider Thumb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square White Slider Thumb.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/848f861767e7ce4581dba9e122ee7bafeaca57987655cebe1f78ab31d1300f0f_Square White Slider Thumb.png",
+          "name": "Square White Slider Thumb.png"
+        }
+      },
+      {
+        "disablePreload": false,
+        "file": "assets/json/dialogue1.json",
+        "kind": "json",
+        "metadata": "{\"extension\":\".json\"}",
+        "name": "dialogue1",
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Dialogue Box.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"New Piskel\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":0,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAI1JREFUWEftl7EOgDAIROX/PxpTkxqglKW96nBuDnKPFwdOro8fifmqqkgmEXGZ7gUd3hezEC9ADI+kq1Zm8x8AdHiHz3IGgN2bV/9Yy3IA6PBoggA0QAM0QAM0QAM0QAP/M9BuNvRdaC/jwUBWHFb7gP1+epaf6AZlMZkVh53b21lpNTsFUZZT1MbV3Bu2XOAhlcnYDgAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":0.3,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAGhJREFUWEftl7ENACAIBGX/oTUWFCoWJiAU5wD+cdW/tOQnyfmtNEB3tmMeezPgHa63HHkWQFS4CbEDRIcfEABgAAMYwAAGMIABDJQzMDtbdC9cji5Zy7W5ept4GibOo+j+Xelt+MXCAHmZGiEm5qOuAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"resourceNames\":[null],\"name\":\"New image\"}}",
+        "name": "Dialogue Box",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -119,16 +180,44 @@
       "name": "globalLanguage",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "globalTextScrollSpeed",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/menu-principal"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/cutscene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/level-1"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
-  "externalLayouts": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspriteslider"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
+  "externalLayouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/background"
+    }
+  ],
   "externalSourceFiles": []
 }

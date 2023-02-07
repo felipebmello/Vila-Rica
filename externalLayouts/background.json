@@ -1,0 +1,36 @@
+{
+  "associatedLayout": "Cutscene",
+  "name": "Background",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "locked": true,
+      "name": "Background",
+      "persistentUuid": "1c79c19a-de29-45c1-9e65-55d4528bbb50",
+      "sealed": true,
+      "width": 0,
+      "x": -1008,
+      "y": -1433,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.226380330325895,
+    "windowMask": false
+  }
+}
