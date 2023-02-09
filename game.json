@@ -222,6 +222,321 @@
         "name": "Floor_01.png3",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated42.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated42.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Separated12.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Separated12.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Separated42.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Separated42.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated45.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated45.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated46.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated46.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated43.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated43.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated54.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated54.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated56.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated56.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated34.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated34.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated35.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated35.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated39.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated39.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated36.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated36.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated53.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated31.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated31.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated33.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated33.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated51.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Felipe/Imagens/Pixel Art/Curso Pixel Art 2/Tiles/Separated7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Felipe\\Imagens\\Pixel Art\\Curso Pixel Art 2\\Tiles\\Separated7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated21.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated23.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Felipe/Imagens/Pixel Art/Curso Pixel Art 2/Tiles/Separated4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Felipe\\Imagens\\Pixel Art\\Curso Pixel Art 2\\Tiles\\Separated4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated26.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated24.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Felipe/Imagens/Pixel Art/Curso Pixel Art 2/Tiles/Separated6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Felipe\\Imagens\\Pixel Art\\Curso Pixel Art 2\\Tiles\\Separated6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated44.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated44.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated25.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Separated13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Separated13.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
