@@ -115,7 +115,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Square White Slider Border.png",
+        "file": "assets/image/Square White Slider Border.png",
         "kind": "image",
         "metadata": "",
         "name": "Square White Slider Border.png",
@@ -128,7 +128,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Square White Slider Fill Bar.png",
+        "file": "assets/image/Square White Slider Fill Bar.png",
         "kind": "image",
         "metadata": "",
         "name": "Square White Slider Fill Bar.png",
@@ -141,7 +141,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Square White Slider Thumb.png",
+        "file": "assets/image/Square White Slider Thumb.png",
         "kind": "image",
         "metadata": "",
         "name": "Square White Slider Thumb.png",
@@ -166,6 +166,60 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"New Piskel\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":0,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAI1JREFUWEftl7EOgDAIROX/PxpTkxqglKW96nBuDnKPFwdOro8fifmqqkgmEXGZ7gUd3hezEC9ADI+kq1Zm8x8AdHiHz3IGgN2bV/9Yy3IA6PBoggA0QAM0QAM0QAM0QAP/M9BuNvRdaC/jwUBWHFb7gP1+epaf6AZlMZkVh53b21lpNTsFUZZT1MbV3Bu2XOAhlcnYDgAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":0.3,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAGhJREFUWEftl7ENACAIBGX/oTUWFCoWJiAU5wD+cdW/tOQnyfmtNEB3tmMeezPgHa63HHkWQFS4CbEDRIcfEABgAAMYwAAGMIABDJQzMDtbdC9cji5Zy7W5ept4GibOo+j+Xelt+MXCAHmZGiEm5qOuAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"resourceNames\":[null],\"name\":\"New image\"}}",
         "name": "Dialogue Box",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Vila Rica Player Character 2 Down.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Vila Rica Player Character 2 Down.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Vila Rica Player Character 2 Up.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Vila Rica Player Character 2 Up.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Vila Rica Player Character 2 Side.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Vila Rica Player Character 2 Side.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Floor_01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor_01.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Floor_01.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Floor_01.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/image/Floor_01.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Floor_01.png3",
         "smoothed": false,
         "userAdded": false
       }
@@ -217,6 +271,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalLayouts/background"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/level-layout-1"
     }
   ],
   "externalSourceFiles": []

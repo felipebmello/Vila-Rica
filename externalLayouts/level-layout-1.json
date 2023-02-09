@@ -1,0 +1,34 @@
+{
+  "associatedLayout": "Level 1",
+  "name": "Level-Layout 1",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 512,
+      "layer": "",
+      "name": "Floor",
+      "persistentUuid": "18f7b201-2f10-4ba6-a29c-299623e000ad",
+      "width": 512,
+      "x": 0,
+      "y": 0,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": true,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": true,
+    "zoomFactor": 0.698252392176042,
+    "windowMask": false
+  }
+}
